@@ -1,6 +1,6 @@
-Instalar:
-pip install djangorestframework
-pip install django-cors-headers
+Instalar:  
+pip install djangorestframework  
+pip install django-cors-headers  
 pip install coreapi
 
 - Este proyecto funciona con 2 terminales
